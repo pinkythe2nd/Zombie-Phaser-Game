@@ -1,0 +1,49 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "zombieMapEmbed.tmx",
+    "expandedProjectPaths": [
+        "."
+    ],
+    "file.lastUsedOpenFilter": "All Files (*)",
+    "fileStates": {
+        "": {
+            "scaleInEditor": 1
+        },
+        "#space_merc": {
+            "dynamicWrapping": false,
+            "scaleInDock": 1
+        },
+        "zombieMapEmbed.tmx": {
+            "scale": 1,
+            "selectedLayer": 6,
+            "viewCenter": {
+                "x": 702,
+                "y": 488
+            }
+        },
+        "zombieMapEmbed.tmx#ZombieTilesetEmbed": {
+            "scaleInDock": 1
+        },
+        "zombieMapEmbed.tmx#doors": {
+            "scaleInDock": 1
+        },
+        "zombieMapEmbed.tmx#spawner": {
+            "scaleInDock": 1
+        }
+    },
+    "last.exportedFilePath": "C:/Users/robin/Desktop/Goofy/public/assets",
+    "last.imagePath": "C:/Users/robin/Downloads",
+    "map.lastUsedExportFilter": "All Files (*)",
+    "openFiles": [
+        "zombieMapEmbed.tmx"
+    ],
+    "project": "space.tiled-project",
+    "property.type": "bool",
+    "recentFiles": [
+        "zombieMapEmbed.tmx"
+    ],
+    "tileset.embedInMap": true
+}

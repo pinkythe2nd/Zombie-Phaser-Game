@@ -1,0 +1,48 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "dungeon.tmx",
+    "expandedProjectPaths": [
+        "."
+    ],
+    "fileStates": {
+        "": {
+            "scaleInEditor": 3
+        },
+        "#tileset": {
+            "scaleInEditor": 2
+        },
+        "dungeon.tmx": {
+            "scale": 0.75,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": 1265.3333333333333,
+                "y": 502.6666666666666
+            }
+        },
+        "dungeon.tmx#tileset": {
+            "scaleInDock": 1
+        }
+    },
+    "last.imagePath": "C:/Users/robin/Desktop/Goofy/public/assets",
+    "map.height": 32,
+    "map.lastUsedFormat": "tmx",
+    "map.tileHeight": 16,
+    "map.tileWidth": 16,
+    "map.width": 32,
+    "openFiles": [
+        "dungeon.tmx"
+    ],
+    "project": "dungeon.tiled-project",
+    "property.type": "bool",
+    "recentFiles": [
+        "dungeon.tmx"
+    ],
+    "tileset.embedInMap": true,
+    "tileset.tileSize": {
+        "height": 16,
+        "width": 16
+    }
+}

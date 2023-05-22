@@ -1,0 +1,70 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "zombieMapEmbed.tmx",
+    "expandedProjectPaths": [
+        "."
+    ],
+    "fileStates": {
+        "": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "#ZombieTilesetEmbed": {
+            "scaleInEditor": 1
+        },
+        "doors.tsx": {
+            "scaleInDock": 1
+        },
+        "zombieMapEmbed.tmx": {
+            "scale": 1,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": 949,
+                "y": 431
+            }
+        },
+        "zombieMapEmbed.tmx#DoorsTileset": {
+            "scaleInDock": 11
+        },
+        "zombieMapEmbed.tmx#ZombieTilesetEmbed": {
+            "dynamicWrapping": false,
+            "scaleInDock": 1.5,
+            "scaleInEditor": 1
+        },
+        "zombieMapEmbed.tmx#doors": {
+            "dynamicWrapping": true,
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "zombieMapEmbed.tmx#spawner": {
+            "dynamicWrapping": false,
+            "scaleInDock": 1
+        }
+    },
+    "last.exportedFilePath": "C:/Users/robin/Desktop/Goofy/public/assets",
+    "last.externalTilesetPath": "C:/Users/robin/Desktop/Goofy/public/assets",
+    "last.imagePath": "C:/Users/robin/Desktop/Goofy/public/assets",
+    "map.height": 300,
+    "map.lastUsedExportFilter": "JSON map files (*.tmj *.json)",
+    "map.lastUsedFormat": "tmx",
+    "map.tileHeight": 16,
+    "map.tileWidth": 16,
+    "map.width": 200,
+    "openFiles": [
+        "zombieMapEmbed.tmx"
+    ],
+    "project": "untitled.tiled-project",
+    "property.type": "int",
+    "recentFiles": [
+        "zombieMapEmbed.tmx"
+    ],
+    "tileset.embedInMap": true,
+    "tileset.tileSize": {
+        "height": 32,
+        "width": 32
+    },
+    "tileset.type": 0
+}
